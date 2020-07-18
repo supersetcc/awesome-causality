@@ -64,7 +64,6 @@ These list contain a more focused compilation of algorithms and data related to 
 
 ## Tutorials
 
-* [ICML 2016 Tutorial Causal Inference for Observational Studies](https://cs.nyu.edu/~shalit/tutorial.html)
 * [KDD 2018 Causal Inference Tutorial](https://causalinference.gitlab.io/kdd-tutorial/)
 * [Joris Mooij ML2 Causality](https://web.archive.org/web/20190312053009/https://drive.google.com/file/d/0B2DZf1QHTotxX2RiNXJ0NUwwekk/edit)
 * [Emre Kiciman - Observational Studies in Social Media (OSSM) at ICWSM 2017](https://web.archive.org/web/20180830204832/http://kiciman.org/wp-content/uploads/2016/06/tutorial_kiciman_ossm17.pdf)
